@@ -1,0 +1,85 @@
+.container {
+    margin: 1% auto;
+    width: 50%;
+    height: 1140px;
+}
+.width {
+    width: 100%;
+}
+.block {
+    height: 170px;
+}
+.e1 {
+    width: 22%;
+}
+.e2 {
+    width: 78%;
+}
+.b1 {
+    background: #72F654;
+}
+.b2 {
+    background: #FAF3B4;
+}
+.b3 {
+    height: 800px;
+}
+.b5 {
+    background: #9595f0;
+}
+.b4 {
+    background: #ADE4F6;
+}
+.t {
+    font-size: 64px;
+    font-weight: bold;
+}
+/*Завдання 1*/
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+.block1 {
+    float: left;
+}
+.block2 {
+    float: right;
+}
+.text {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.t1 {
+    left: 50%;
+}
+.t2 {
+    left: 33.3%;
+}
+.clear {
+    clear: both;
+}
+.pos {
+    position: relative; 
+}
+/*Завдання 2*/
+.flex {
+    flex-direction: column;
+}
+.double_block {
+    flex-direction: row;
+}
+.text_ {
+    transform: translate(-50%, 0%); 
+    margin: 0 0 0 33.3%;
+}
+.disp {
+    display: flex;
+}
+.c1 {
+    align-items: center;
+}
+.c2 {
+    justify-content: center;
+}
+
